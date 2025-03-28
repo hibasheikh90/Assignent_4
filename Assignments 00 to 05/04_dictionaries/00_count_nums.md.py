@@ -50,6 +50,6 @@ def main():
     num_dict = count_nums(user_numbers)
     print_counts(num_dict)
 
-# Python boilerplate.
+
 if __name__ == '__main__':
     main()

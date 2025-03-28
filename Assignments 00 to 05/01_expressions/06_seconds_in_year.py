@@ -15,6 +15,6 @@ def main():
     # Print the result in a user-friendly format
     print(f"There are {seconds_in_year} seconds in a year!")  
 
-# Ensuring the script runs only when executed directly
+
 if __name__ == '__main__':
     main()

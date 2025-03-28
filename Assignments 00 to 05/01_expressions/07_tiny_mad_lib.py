@@ -18,6 +18,6 @@ def main():
     # Construct and display the final sentence
     print(SENTENCE_START + adjective + " " + noun + " " + verb + "!")  
 
-# Required to call the main function when the script runs
+
 if __name__ == '__main__':
     main()

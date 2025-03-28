@@ -5,9 +5,9 @@ def main():
     # Calculate the square of the number
     square = num ** 2
 
-    # Print the result using f-string for better readability
+    # Print the result 
     print(f"{num} squared is {square}")
 
-# Ensures the script runs only when executed directly
+# Call the main function
 if __name__ == '__main__':
     main()

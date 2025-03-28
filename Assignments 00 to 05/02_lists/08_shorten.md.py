@@ -5,7 +5,6 @@ def shorten(lst):
         removed_item = lst.pop()  # Last element remove karna
         print("Removed:", removed_item)  # Removed item print karna
 
-########## No need to edit code past this point ##########
 
 def main():
     my_list = []

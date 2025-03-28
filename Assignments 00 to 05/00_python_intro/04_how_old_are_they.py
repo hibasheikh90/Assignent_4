@@ -13,6 +13,6 @@ def main():
     print(f"Drew is {drew} years old.")
     print(f"Ethan is {ethan} years old.")
 
-# Ensuring the script runs only when executed directly
+    # Printing the sum of all ages
 if __name__ == '__main__':
     main()

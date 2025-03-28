@@ -16,6 +16,6 @@ def main():
     # Print the result
     print(f"The length of BC (the hypotenuse) is: {bc}")
 
-# Ensuring the script runs only when executed directly
+
 if __name__ == '__main__':
     main()
