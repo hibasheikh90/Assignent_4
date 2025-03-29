@@ -5,12 +5,12 @@ def main():
     """
 
     # Take input for the two numbers
-    dividend = int(input("Please enter an integer to be divided: "))
-    divisor = int(input("Please enter an integer to divide by: "))
+    num1 = int(input("Please enter an integer to be divided: "))
+    num2 = int(input("Please enter an integer to divide by: "))
 
     # Calculate quotient and remainder
-    quotient = dividend // divisor  # Integer division
-    remainder = dividend % divisor  # Modulus operator gives remainder
+    quotient = num1 // num2  # Integer division
+    remainder = num1 % num2 # Modulus operator gives remainder
 
     # Print the result
     print(f"The result of this division is {quotient} with a remainder of {remainder}")

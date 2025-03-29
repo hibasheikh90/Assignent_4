@@ -1,8 +1,8 @@
 def main():
     # Dictionary storing fruit prices
     fruits = {
-        'apple': 1.5, 'durian': 50, 'jackfruit': 80,
-        'kiwi': 1, 'rambutan': 1.5, 'mango': 5
+        'apple': 1.5, 'banana': 50, 'peach': 80,
+        'kiwi': 1, 'grapes': 1.5, 'mango': 5
     }
 
     total_cost = 0  # Initialize total cost
